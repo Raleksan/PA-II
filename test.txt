@@ -2,3 +2,4 @@ test signed commit
 test singed commit 2
 test signed commit 3
 test new key
+test signed commit 4
